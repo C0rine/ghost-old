@@ -19,7 +19,9 @@ Ghost is a wordgame that is played by two players. The players form a word by al
 - Game state and preferences survive even when the app gets closed.
 
 ### Sketches of user experience
-Here will be some images...
+![Background](/doc/Background.png)
+![Start Screen](/doc/StartScreen.png)
+![Highscores](/doc/Highscores.png)
 
 ### Frameworks
 - Reading Dutch and English dictionaries into memory
