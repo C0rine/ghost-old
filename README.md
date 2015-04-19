@@ -21,7 +21,7 @@ Ghost is a wordgame that is played by two players. The players form a word by al
 ### Sketches of user experience
 ![Background](/doc/Background.png)
 ![Start Screen](/doc/StartScreen.png)
-![Sketch](/doc/SketchPath.jpg)
+![Sketch](/doc/SketchPaths.jpg)
 
 ### Frameworks
 - Reading Dutch and English dictionaries into memory
